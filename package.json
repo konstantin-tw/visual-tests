@@ -1,0 +1,14 @@
+{
+  "name": "visual-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.0-alpha-jan-31-2023",
+    "prettier": "^2.8.4"
+  }
+}
